@@ -14,5 +14,5 @@ This project is a simple purchase simulation project. Here, we can add and remov
 
 ## Screenshoots
 
-![](./images/111.png)
-![](./images/22.png)
+![](./images/ss1.png)
+![](./images/ss2.png)
